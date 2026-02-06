@@ -1,0 +1,2 @@
+# harshpatle10-HIRESENSE_APPLICATION-AI_DRIVEN_HIRING_PLATFORM-
+Built an AI-driven hiring platform with resume screening, job recommendations, and real-time application tracking using Java and Spring Boot.  Developed a responsive UI with HTML, CSS, JavaScript, Tailwind CSS for smooth user experience.  Implemented a secure, scalable backend with Spring Boot and MySQL to manage hiring workflows and data.
